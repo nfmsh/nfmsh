@@ -120,7 +120,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: nfmsh/nfmsh
-    repo_id: 1R_kgDOPF0uIw
+    repo_id: R_kgDOPF0uIw
     category: Announcements
     category_id: DIC_kwDOPF0uI84CsaW0
     mapping: # optional, default to 'pathname'
