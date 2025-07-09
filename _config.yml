@@ -38,7 +38,7 @@ social:
   email: notesfromsmarthome@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/SmartHome_Notes # change to your Twitter homepage
+    - https://twitter.com/SmartHome_Notes # change to your Twitter homepage
     - https://github.com/nfmsh # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: 11464126592
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
