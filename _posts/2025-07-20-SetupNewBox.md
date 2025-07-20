@@ -1,8 +1,8 @@
 ---
 title: New Box 
 date: 2025-07-20 +/-TTTT
-categories: [home assistant] [mini pc] [hardware]
-tags: [hardware] [server]
+categories: [Home Assistant, Hardware]
+tags: [hardware] 
 description: A few notes to remember when setting up a new mini pc to run home assistant
 
 comments: true
