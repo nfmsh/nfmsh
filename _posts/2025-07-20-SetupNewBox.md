@@ -1,5 +1,4 @@
 ---
-
 title: New Box 
 date: 2025-07-20 +/-TTTT
 categories: [home assistant] [mini pc] [hardware]
