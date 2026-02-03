@@ -2,9 +2,10 @@
 layout: post
 title: "Building a Vertical Blinds Card I Actually Trust"
 date: 2026-02-03
-author: Your Name
+author: Ian Collins
 categories: [Home Assistant, Lovelace, UI Design]
 tags: [home-assistant, hacs, lovelace, blinds, ui]
+description: I created a Lovelace card to show vertical blinds opening and closing
 excerpt: "Vertical blinds look simple until you try to represent them honestly in Home Assistant. This is the story of how I stopped fighting the hardware and built a card around its limits."
 ---
 
