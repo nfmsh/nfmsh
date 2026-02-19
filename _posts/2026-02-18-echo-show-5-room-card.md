@@ -110,7 +110,7 @@ views:
         env_temp_entity: sensor.bedroom_temperature
         env_humidity_entity: sensor.bedroom_humidity
 ```
-##Optional: Browser Mod for kiosk vibes
+## Optional: Browser Mod for kiosk vibes
 
 The card itself doesn’t require anything extra.
 
