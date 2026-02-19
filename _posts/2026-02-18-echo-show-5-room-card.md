@@ -5,7 +5,7 @@ date: 2026-02-18
 categories: [home-assistant, lovelace, dashboard, hacs]
 tags: [home-assistant, hacs, lovelace, echo-show-5, kiosk, lineageos, browser-mod]
 description: "A Home Assistant Lovelace custom card designed for Echo Show 5 displays with a room-first layout, center control slot, and configurable action buttons."
-image: /img/echo-show-5-room-card/hero.png
+image: /img/echo-show-5-room-card/hero_blog.png
 ---
 
 If you’ve been hanging around the Home Assistant world lately, you’ve probably noticed a trend: **Echo Show 5 units are becoming mini dashboard screens**. Between the jailbreak progress and the ability to run **LineageOS** on them, they’ve suddenly turned into a neat little “cheap wall display” option.
