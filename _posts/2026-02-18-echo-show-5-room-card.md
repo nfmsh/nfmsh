@@ -122,21 +122,22 @@ But in my setup, I use Browser Mod to:
 
 If you’re building a wall display out of a Show 5, Browser Mod is a great companion.
 
-##Inspiration / credit
+## Inspiration / credit
 
 This card was inspired by Aguacate’s Room Cards concept:
 
 https://aguacatec.es/room-cards/
 
-##Where to get it
+## Where to get it
 
 HACS (Frontend)
 
-Repo: {{ site.echo_show_5_room_card_repo | default: (https://github.com/nfmsh/echo-show-5-room-card) }}
+Repo: [{{ site.echo_show_5_room_card_repo | default: "https://github.com/nfmsh/echo-show-5-room-card" }}]({{ site.echo_show_5_room_card_repo | default: "https://github.com/nfmsh/echo-show-5-room-card" }})
+
 
 (Once it lands in the HACS default store, I’ll update this post.)
 
-##What’s next
+## What’s next
 
 This is the first release, and I’m planning to iterate based on real-world use. If you try it on an Echo Show (or any small wall display), I’d love to hear:
 
