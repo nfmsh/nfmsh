@@ -4,7 +4,7 @@ title: "Vertical Slats Card V1.1.0 is now in HACS"
 date: 2026-02-21 
 categories: [Home Assistant, Lovelace]
 tags: [home-assistant, lovelace, hacs, custom-card, blinds, yaml]
-description: "V1.1.0 is now released on HACS
+description: "V1.1.0 is now released on HACS"
 image: /img/vertical-slats-card/vsc-hero.png
 ---
 
