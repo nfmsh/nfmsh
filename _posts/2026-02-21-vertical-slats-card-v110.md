@@ -1,12 +1,11 @@
 ---
+layout: post
 title: "Vertical Slats Card V1.1.0 is now in HACS"
-date: 2026-02-21 10:00:00 +0000
+date: 2026-02-21 
 categories: [Home Assistant, Lovelace]
 tags: [home-assistant, lovelace, hacs, custom-card, blinds, yaml]
 description: "V1.1.0 is now released on HACS
-image:
-  path: /img/vertical-slats-card/vsc-hero.png
-  alt: "Vertical Slats Card for Home Assistant Lovelace"
+image: /img/vertical-slats-card/vsc-hero.png
 ---
 
 I’ve built a lot of dashboards over the years, and blinds are one of those things that always seem deceptively simple until you try to make them look right.
