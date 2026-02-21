@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Vertical Slats Card V1.1.0 is now in HACS"
 date: 2026-02-21 10:00:00 +0000
 categories: [Home Assistant, Lovelace]
